@@ -1,0 +1,46 @@
+h1 {
+    font-family: Quicksand, sans-serif;
+    padding: 20px;
+    background-color: #00a2c6;
+    border-radius: 1em;
+    text-align: center;
+}
+
+body p {
+    text-align: center;
+}
+
+body main {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 ,h3 {
+    color: #00a2c6;
+}
+
+footer {
+    padding : 20px;
+    color :white;
+    background-color: #00a2c6;
+    border-radius: 20px;
+    text-align: center;
+}
+tr {
+    text-align: center ;
+}
+
+nav a{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+nav a:hover{
+    font-weight: bold;
+    animation:normal 5s ease-in-out 0 forwards ;;
+}
+
+.profile header {
+    text-align: center;
+}
